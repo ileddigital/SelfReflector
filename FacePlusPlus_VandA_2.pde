@@ -36,8 +36,8 @@ static final int MAX_CAM_TRY = 20; // slightly arbitary 20 times repeat until it
 PImage photo; 
 PImage imageFlash;
 
-String api_key = "fbdd84ed5fab78b1384f943cf5fd3e69";
-String api_secret = "7IpVkigS2UeSnDYWGhD3XDTAKdMyeffb";
+String api_key = "YOUR KEY;
+String api_secret = "YOUR SECRET";
 
 String jonImg = "/Users/jrogers/Documents/Processing/faceplusplus_with_cam/data/jon.jpg";
 String photoImg = "/Users/jrogers/Documents/Processing/faceplusplus_with_cam/data/camPhoto.jpg";
